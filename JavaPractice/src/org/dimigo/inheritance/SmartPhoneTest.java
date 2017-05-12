@@ -6,7 +6,7 @@ package org.dimigo.inheritance;
 /**
  * <pre>
  * org.dimigo.inheritance
- *   |_SmarPhoneTest
+ *   |_SmartPhoneTest
  * 
  * 1. 개요 : 
  * 2. 작성일 : 2017. 5. 12.
@@ -15,7 +15,7 @@ package org.dimigo.inheritance;
  * @author : KHH
  * @version : 1.0
  */
-public class SmarPhoneTest {
+public class SmartPhoneTest {
 
 	public static void main(String[] args) {
 		
@@ -32,6 +32,7 @@ public class SmarPhoneTest {
 			phone.turnOff();
 			System.out.println();
 		}
+		
 	}
 
 }

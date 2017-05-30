@@ -30,6 +30,7 @@ public class Movie {
 	public int getLimitAge() {
 		return limitAge;
 	}
+	
 	public void buyTicket(int age) {
 		if (age < limitAge) {
 			System.out.println(title + "은/는 " + limitAge + "세 이상 관람가입니다."); 
